@@ -1,0 +1,13 @@
+#s1{border-radius:10px;background-color:#fffafa;borded-shadow:rgb(0,0,0,0.1);text-align:center;margin:15px;}
+body{background-color:#f5f5f5;}
+a{disllay:inline-block;text-decoration:none;}
+.gpt{background-color:green;border-radius:10px;color:white;width:30px;}
+h1{text-align:center}
+#s2{border-radius:10px;background-color:#fffafa;borded-shadow:rgb(0,0,0,0.1);text-align:center;margin:15px;}
+.gemini{background-color:purple;border-radius:10px;color:white;width:30px;}
+#s3{border-radius:10px;background-color:#fffafa;borded-shadow:rgb(0,0,0,0.1);text-align:center;margin:15px;}
+.grok{background-color:blue;border-radius:10px;color:white;width:30px;}
+#s4{border-radius:10px;background-color:#fffafa;borded-shadow:rgb(0,0,0,0.1);text-align:center;margin:15px;}
+.copilot{background-color:red;border-radius:10px;color:white;width:30px;}
+#s5{border-radius:10px;background-color:#fffafa;borded-shadow:rgb(0,0,0,0.1);text-align:center;margin:15px;}
+.claude{background-color:green;border-radius:10px;color:white;width:30px;}
