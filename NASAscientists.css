@@ -1,0 +1,12 @@
+h1{text-align:center;}
+html{background-image:url('Space2.jpg');color:white;}
+#home{color:white;padding:20px;font-weight:bold;margin-bottom:20px;}
+#about{color:white;font-weight:bold;}
+#scientists{color:white;padding:20px;font-weight:bold;}
+#plans{color:white;font-weight:bold;padding:20px;}
+#ai{color:white;font-weight:bold;}
+h2{text-align:center;}
+#telescope{color:white;font-weight:bold;padding:20px;}
+#plans{color:white;font-weight:bold;padding:20px;}
+#ai{color:white;font-weight:bold;}
+header{background-color:rgba(11,26,42,0.8);}

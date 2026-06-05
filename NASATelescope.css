@@ -1,0 +1,12 @@
+h1{text-align:center;}
+h2{text-align:center;}
+h3{text-align:center;}
+html{background-color:#000000;color:white;}
+header{background-color:rgba(11,26,42,0.8);}
+#home{color:white;padding:20px;font-weight:bold;}
+#about{color:white;font-weight:bold;}
+#scientists{color:white;padding:20px;font-weight:bold;}
+#telescope{color:white;font-weight:bold;}
+#page{:30px;}
+#plans{color:white;font-weight:bold;padding:20px;}
+#ai{color:white;font-weight:bold;}

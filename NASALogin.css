@@ -1,0 +1,32 @@
+form {
+  background: #111;
+  padding: 40px;
+  border-radius: 15px;
+  border: 1px solid #00A8E8;
+  box-shadow: 0 0 20px rgba(0, 168, 232, 0.4);
+  width: 350px;
+  color: white;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  background: #222;
+  border: 1px solid #444;
+  color: white;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 20px;
+  cursor: pointer;
+  background: linear-gradient(45deg, #00A8E8, #0056b3);
+  border: none;
+  transition: 0.3s;
+}
+
+button:hover {
+  filter: brightness(1.2);
+  letter-spacing: 2px;
+}

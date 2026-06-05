@@ -1,0 +1,16 @@
+h1{text-align:center;}
+html{background-color:#000000;color:white;}
+header{background-color:rgba(11,26,42,0.8);width:40;}
+#home{color:white;padding:20px;font-weight:bold;margin-bottom:20px;}
+#about{color:white;font-weight:bold;}
+#scientists{color:white;padding:20px;font-weight:bold;}
+#plans{color:white;font-weight:bold;padding:20px;}
+#ai{color:white;font-weight:bold;}
+img{width:175px;size:30px;}
+#h1{color:rgb(100,35,54);font-family: "Playfair Display", serif;}
+ol{list-style-type:upper-alpha;}
+#div{border-radius:10px;background-color:rgb(34,54,74);}
+#telescope{color:white;font-weight:bold;}
+#simg{width:70px;size=20px}
+#login{background-color:rgb(5,12,94);color:white;font-weight:bold;margin-left:80%;}
+
